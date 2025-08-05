@@ -45,7 +45,8 @@ I'm **Adhithya Pranave**, a 3rd-year IT student currently navigating the chaotic
 ![Adhithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhithyapranave07&show_icons=true&theme=radical&hide_title=true)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adhithyapranave07&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Adhithyapranave07&theme=radical&hide_border=false)
+
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyapranave07&layout=compact&theme=radical)
