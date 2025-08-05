@@ -35,3 +35,19 @@ I'm **Adhithya Pranave**, a 3rd-year IT student currently navigating the chaotic
  
 
 📌 *Feel free to fork any project, raise an issue, or just drop a ⭐ if something made your day (or broke it).*
+
+
+---
+
+### 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Adhithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhithyapranave07&show_icons=true&theme=radical&hide_title=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adhithyapranave07&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyapranave07&layout=compact&theme=radical)
+
+
