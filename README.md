@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Adhithya Pranave**, a 2nd-year IT student currently navigating the chaotic but rewarding world of full stack development — one bug at a time.
+I'm **Adhithya Pranave**, a 3rd-year IT student currently navigating the chaotic but rewarding world of full stack development — one bug at a time.
 
 ### 👨‍💻 Who am I really?
 - 🎓 Student by day, Stack Overflow visitor by night
