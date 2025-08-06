@@ -21,8 +21,7 @@ I'm **Adhithya Pranave**, a 3rd-year IT student currently navigating the chaotic
 ---
 
 ### 🏆 Brag-Worthy Stuff (Totally Not Just for This README):
-
-- 🧠 **Selected for Smart India Hackathon 2024 College Level** – AI-based real-time traffic signal control system  
+ 
 - 💪 **Solved 200+ DSA problems** – arrays, strings, recursion, and occasional tears  
 - 📜 **Lean Six Sigma Yellow Belt Certified** – because even bugs deserve process improvement  
 - 🔥 **LeetCode 50-Day Streak Badge** – commitment issues? Not here.
