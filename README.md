@@ -6,9 +6,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **3rd Year IT Student**
+- 🎓 **Final Year IT Student**
 - 💻 Full Stack Developer — **Spring Boot + MERN Stack**
-- 🧠 Solved 200+ Problems on **LeetCode & GFG**
+- 🧠 Solved 700+ Problems on **LeetCode & GFG**
 - ☕ Coffee + Code = Productivity
 - 🚀 Always building, always learning
 
